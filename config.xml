@@ -43,7 +43,7 @@
 
   <preference name="SplashScreen" value="screen"/>
 
-  <preference name="SplashScreenDelay" value="3000"/>
+  <preference name="SplashScreenDelay" value="10000"/>
   <!-- android: time showing splashscreen -->
 
 
@@ -137,6 +137,7 @@
     <splash src="resources\ios\splash\Default~iphone.png" width="320" height="480"/>
   </platform>
 
-  <icon src="resources\android\icon\drawable-xhdpi-icon.png"/>
+  <!--<icon src="resources\android\icon\drawable-xhdpi-icon.png"/>-->
+  <icon src="resources\icon.png"/>
   
 </widget>
